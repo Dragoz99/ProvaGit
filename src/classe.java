@@ -1,3 +1,3 @@
 public class classe {
-    println("CIAO")
+    println("CIAO");
 }
