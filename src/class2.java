@@ -1,3 +1,3 @@
 public class class2 {
-    dio caqne
+    dio caqn
 }
